@@ -1,5 +1,5 @@
 FROM debian:bullseye-slim
-MAINTAINER Odoo S.A. <info@odoo.com>
+MAINTAINER Ernad Husremovic <hernad@bring.out.ba>
 
 SHELL ["/bin/bash", "-xo", "pipefail", "-c"]
 
